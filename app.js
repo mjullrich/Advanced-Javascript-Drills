@@ -25,7 +25,7 @@ function findAvg(a, b) {
 }
 console.log(avg);
 
-/* Scoping 1 - 25 */
+/* Scoping 1 - 23 */
 
 let fruits = ['apple', 'tomato', 'banana'];
 /* let favFruit; */
